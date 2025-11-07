@@ -62,7 +62,7 @@ Mensaje de despedida (distinto para dev y prod).
 ## Capturas de pantalla
 
 ### Perfil DEV
-![Consola modo DEV](src/main/resources/screenshots/captura1.png)
+![Consola modo DEV](https://raw.githubusercontent.com/lautigit1/tp-fundamentos-spring-boot/main/src/main/resources/screenshots/captura1.png)
 
 ### Perfil PROD
-![Consola modo PROD](src/main/resources/screenshots/captura2.png)
+![Consola modo PROD](https://raw.githubusercontent.com/lautigit1/tp-fundamentos-spring-boot/main/src/main/resources/screenshots/captura2.png)

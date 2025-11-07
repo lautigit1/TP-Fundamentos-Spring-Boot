@@ -1,0 +1,1 @@
+Pega aquí las capturas de consola (dev y prod).

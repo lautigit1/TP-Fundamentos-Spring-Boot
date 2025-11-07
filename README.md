@@ -59,4 +59,3 @@ Listado de tareas completadas.
 
 Mensaje de despedida (distinto para dev y prod).
 
-## Capturas de pantalla

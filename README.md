@@ -64,3 +64,7 @@ Mensaje de despedida (distinto para dev y prod).
 ![Consola modo DEV](https://raw.githubusercontent.com/lautigit1/tp-fundamentos-spring-boot/master/src/main/resources/screenshots/captura1.png)
 ...
 ![Consola modo PROD](https://raw.githubusercontent.com/lautigit1/tp-fundamentos-spring-boot/master/src/main/resources/screenshots/captura2.png)
+
+
+![captura1.png](../../OneDrive/Escritorio/captura1.png)
+![captura2.png](../../OneDrive/Escritorio/captura2.png)
